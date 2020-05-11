@@ -8,6 +8,7 @@ Command line clients for common databases/stores based on alpine
 
 - bash
 - curl
+- grpc-cli
 - wget
 - tar
 - git

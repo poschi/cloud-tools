@@ -5,6 +5,7 @@ RUN apk --no-cache add \
     python \
     wget \
     curl \
+    grpc-cli \
     tar \
     git \
     bash \
