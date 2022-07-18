@@ -8,12 +8,12 @@ Command line clients for common databases/stores based on alpine
 
 - bash
 - curl
-- grpc-cli
+- ~~grpc-cli~~ (currently not available in alpine 3.16)
 - wget
 - tar
 - git
 - ca-certificates
-- python
+- python3
 - redis (redis-cli)
 - postgresql-client
 - mysql-client
